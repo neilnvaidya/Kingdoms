@@ -1,0 +1,8 @@
+/home/neil/GodotProjects/Kingdoms/.mono/temp/bin/Debug/Kingdoms.dll
+/home/neil/GodotProjects/Kingdoms/.mono/temp/bin/Debug/Kingdoms.pdb
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.csproj.AssemblyReference.cache
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.AssemblyInfoInputs.cache
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.AssemblyInfo.cs
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.csproj.CoreCompileInputs.cache
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.dll
+/home/neil/GodotProjects/Kingdoms/.mono/temp/obj/Debug/Kingdoms.pdb

@@ -1,0 +1,2 @@
+﻿43821
+/home/neil/Godot_v3.4.4_mono/godot_mono
