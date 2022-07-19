@@ -10,10 +10,11 @@
     - [Player](#player)
     - [AI](#ai)
   - [Being](#being)
-  - [Champion](#champion)
+    - [Champion](#champion)
     - [Creature](#creature)
       - [Monster](#monster)
       - [**Beast**](#beast)
+- [Scene Tree](#scene-tree)
   - [CollectivesManager](#collectivesmanager)
   - [RulersManager](#rulersmanager)
   - [Game](#game)
@@ -90,7 +91,7 @@ Enemies are all Rulers other than the player.
 ## Being 
 **Base class** for all living things with some intelligence. This includes plants-creatures that have intelligence, but not things like trees. Champions, Leaders, Wolves etc. they have the ability to affect other beings and terrain.
 
-## Champion  
+### Champion  
 *Inherits : [**Being**](#being)*  
 Champions are induviduals belonging to an intelligent race who exist in the world. They have allegience to certain collectives but make decisions based on their own interests.
 
@@ -106,6 +107,7 @@ Creatures covers any race that is non playable. This includes a range of intelli
 *Inherits : [**Creature**](#creature)*   
 Beast is a low level creature. These are usually native inhabitants of an area, can be domesticated by inhabitants of a region.
 
+# Scene Tree 
 
 ## CollectivesManager  
 *Inherits : [**Node**](#node)*   
