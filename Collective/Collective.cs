@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 public class Collective
 {
-    Ruler Ruler;
+    Ruler ruler;
     public Collective()
     {
     }
